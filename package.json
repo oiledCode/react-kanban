@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/oiledCode/react-kanban/issues"
   },
-  "homepage": "https://github.com/oiledCode/react-kanban"
+  "homepage": "https://github.com/oiledCode/react-kanban",
+  "devDependencies": {
+    "webpack": "^1.12.2"
+  }
 }
