@@ -1,0 +1,24 @@
+{
+  "name": "react-kanban",
+  "version": "0.0.1",
+  "description": "Simple kanban app developed while reading survive JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oiledCode/react-kanban.git"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "webpack"
+  ],
+  "author": "elio d'antoni @oiledcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oiledCode/react-kanban/issues"
+  },
+  "homepage": "https://github.com/oiledCode/react-kanban"
+}
